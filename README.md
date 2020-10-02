@@ -1,8 +1,7 @@
 # A collection of python functions for praat object manipulation and processing 
 
-## Table of contents
-[Get duration data from textGrid file](https://github.com/Clara-liu/python_praat#get-duration-data-from-textGrid-file)
 
+- [Get duration data from textGrid file](#get-duration-data-from-textgrid-file)
 
 ## Get duration data from textGrid file
 
